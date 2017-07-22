@@ -1,5 +1,5 @@
 # Introduction
-Maze zero is a maze game using AI and Breadth First Search (BFS) algorithm for solving it self.
+Maze zero is a maze game using AI and Breadth First Search (BFS) algorithm for solving itself.
 # Attachments
 - **MazeLibrary:** Contains BFS algorithm in MLibrary and simple console demo in MazeLibrary.
 - **MazeZero:** Contains another demo using GUI (WPF).
